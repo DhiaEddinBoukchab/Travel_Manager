@@ -45,7 +45,7 @@ void generateflight(char destination[50], char client[50],char horloge[50] ,char
 
 }
 int main(){
-   abccc
+ 
     int opt,i, foundflight=0 ,nb; 
     flight flt[100];
     int cpt=0;
