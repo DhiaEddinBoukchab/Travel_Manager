@@ -17,7 +17,8 @@ finalement pour connaitre tout Détail sur l'applications cliquez sur **`6`**.
 
 ⚠️ **Conditions d'utilisation à respecter :**
 
-pour rempilr les champs DATE et HORLOGE , s'il vous plait utiliser le format suivant :     jj**:**mm**:**aa  et hh**:**mm**:**ss 
+pour rempilr les champs DATE et HORLOGE , s'il vous plait utiliser le format suivant :     jj:mm:aa  et   hh:mm:ss  
+pour ne pas avoir de problèmes en cours d'exécution du programme.
 
 
 **Exemple d'exuction de notre application :**
