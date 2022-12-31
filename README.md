@@ -9,7 +9,7 @@ cliquez  **`1`** pour  Ajouter un voyage,
 
 pressez  **`2`**  si vous voulez savoir la description d’un voyage,
 
-vous pouvez aussi modifier un voyage `3`et rechercher un voyage selon la date precise en tapant **`4`**,
+vous pouvez aussi modifier un voyage en cliquant `3` et rechercher un voyage selon la date precise en tapant **`4`**,
 
 tapez **`5`** pour supprimer un voyage ,
 
