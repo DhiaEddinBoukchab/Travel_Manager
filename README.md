@@ -15,6 +15,11 @@ tapez **`5`** pour Recherche des voyages disponibles selon des dates précises,
 
 finalement pour connaitre tout Détail sur l'applications cliquez sur **`6`**.
 
+⚠️ **Conditions d'utilisation à respecter :**
+
+pour rempilr les champs DATE et HORLOGE , s'il vous plait utiliser le format suivant :     jj**:**mm**:**aa  et hh**:**mm**:**ss 
+
+
 **Exemple d'exuction de notre application :**
 
 
