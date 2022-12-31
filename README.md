@@ -1,7 +1,7 @@
 # Travel_Manager
 
 
-Notre projet "`Travel_Manager`" est une application cmd qui est sert à gérer une base de données d'une `agence de voyages`.
+Notre projet "`Travel_Manager`" est une application cmd qui  sert à gérer une base de données d'une `agence de voyages`.
 
 **comment utiliser?**
 
@@ -24,7 +24,6 @@ pour ne pas avoir de problèmes en cours d'exécution du programme.
 **Exemple d'exuction de notre application :**
 
 
-
-![capture projet](https://user-images.githubusercontent.com/121571508/210152117-452ad0ab-f425-4014-b30d-8717230bb9ff.png)
+![ezaezaeaeza](https://user-images.githubusercontent.com/121571508/210154711-06236961-139b-4a03-b475-b360f12c51fe.png)
 
 
