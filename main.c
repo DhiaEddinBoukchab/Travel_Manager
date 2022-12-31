@@ -60,7 +60,7 @@ int main(){
     printf("\n2.Show the description of the flight");
     printf("\n3.Edit A Flight");
     printf("\n4.Search A Flight According To The Date");
-    printf("\n5.Add a client to a flight");
+    printf("\n5.Delete a flight");
     printf("\n6.QUIT");
     printf("\n\nPlease enter your desirable operation:\t");
     scanf("%d",&opt);
